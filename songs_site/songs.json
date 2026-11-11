@@ -30,6 +30,15 @@
       "url": "s003.mp3",
       "durationSec": 210,
       "sizeBytes": 3400000
+    },
+    {
+      "id": "s004",
+      "title": "Test song 4",
+      "artist": "Choir",
+      "category": "worship",
+      "url": "s004.mp3",
+      "durationSec": 210,
+      "sizeBytes": 3400000
     }
   ]
 }
