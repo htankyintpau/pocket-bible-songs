@@ -1,0 +1,35 @@
+{
+  "categories": [
+    { "id": "worship", "name": "Worship" },
+    { "id": "hymn", "name": "Hymn" }
+  ],
+  "songs": [
+    {
+      "id": "s001",
+      "title": "Test song 1",
+      "artist": "Choir",
+      "category": "worship",
+      "url": "s001.mp3",
+      "durationSec": 180,
+      "sizeBytes": 3000000
+    },
+    {
+      "id": "s002",
+      "title": "Test song 2",
+      "artist": "Choir",
+      "category": "hymn",
+      "url": "s002.mp3",
+      "durationSec": 200,
+      "sizeBytes": 3200000
+    },
+    {
+      "id": "s003",
+      "title": "Test song 3",
+      "artist": "Choir",
+      "category": "hymn",
+      "url": "s003.mp3",
+      "durationSec": 210,
+      "sizeBytes": 3400000
+    }
+  ]
+}
