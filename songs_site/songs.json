@@ -1,8 +1,9 @@
 {
   "categories": [
     { "id": "worship", "name": "Worship" },
-    { "id": "hymn", "name": "Hymn" }
-    { "id": "christmas", "name": "Christmas" }
+    { "id": "hymn", "name": "Hymn" },
+    { "id": "christmas", "name": "Christmas" },
+    { "id": "children", "name": "Children" }
   ],
   "songs": [
     {
