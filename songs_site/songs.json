@@ -12,6 +12,7 @@
       "artist": "Studio Musicians",
       "category": "hymn",
       "url": "Amazing Grace.mp3",
+      "lyrics": "s001.txt",
       "durationSec": 180,
       "sizeBytes": 3551232
     },
