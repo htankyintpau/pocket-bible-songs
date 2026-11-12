@@ -1,0 +1,143 @@
+{
+  "categories": [
+    { "id": "worship", "name": "Worship" },
+    { "id": "hymn", "name": "Hymn" }
+  ],
+  "songs": [
+    {
+      "id": "s001",
+      "title": "Amazing Grace",
+      "artist": "Studio Musicians",
+      "category": "hymn",
+      "url": "Amazing Grace.mp3",
+      "durationSec": 180,
+      "sizeBytes": 3551232
+    },
+    {
+      "id": "s002",
+      "title": "Are You Washed in the Blood",
+      "artist": "SE Samonte",
+      "category": "worship",
+      "url": "Are You Washed in the Blood.mp3",
+      "durationSec": 194,
+      "sizeBytes": 3907584
+    },
+    {
+      "id": "s003",
+      "title": "Because He lives I can face tomorrow",
+      "artist": "Evolsiay Tulip",
+      "category": "hymn",
+      "url": "Because He lives I can face tomorrow.mp3",
+      "durationSec": 238,
+      "sizeBytes": 4804608
+    },
+    {
+      "id": "s004",
+      "title": "Beyond the Sunset",
+      "artist": "SE Samonte",
+      "category": "hymn",
+      "url": "Beyond the Sunset.mp3",
+      "durationSec": 210,
+      "sizeBytes": 3743744
+    },
+    {
+      "id": "s005",
+      "title": "Higher Ground",
+      "artist": "SE Samonte",
+      "category": "hymn",
+      "url": "Higher Ground.mp3",
+      "durationSec": 180,
+      "sizeBytes": 4079616
+    },
+    {
+      "id": "s006",
+      "title": "Home Christmas",
+      "artist": "Benjamin Sum",
+      "category": "worship",
+      "url": "Home Christmas.mp3",
+      "durationSec": 200,
+      "sizeBytes": 5726208
+    },
+    {
+      "id": "s007",
+      "title": "Nearer My God to Thee",
+      "artist": "Johan Luis Estevez",
+      "category": "hymn",
+      "url": "Nearer My God to Thee.mp3",
+      "durationSec": 306,
+      "sizeBytes": 6144000
+    },
+    {
+      "id": "s008",
+      "title": "Redeemed",
+      "artist": "SE Samonte",
+      "category": "hymn",
+      "url": "Redeemed.mp3",
+      "durationSec": 141,
+      "sizeBytes": 2846720
+    },
+    {
+      "id": "s009",
+      "title": "The Lily of the Valley",
+      "artist": "SE Samonte",
+      "category": "hymn",
+      "url": "The Lily of the Valley.mp3",
+      "durationSec": 121,
+      "sizeBytes": 2433024
+    },
+    {
+      "id": "s010",
+      "title": "There is Power in the Blood",
+      "artist": "SE Samonte",
+      "category": "hymn",
+      "url": "There is Power in the Blood.mp3",
+      "durationSec": 147,
+      "sizeBytes": 2965504
+    },
+    {
+      "id": "s011",
+      "title": "This World Is Not My Home",
+      "artist": "Jim Reeves",
+      "category": "hymn",
+      "url": "This World Is Not My Home.mp3",
+      "durationSec": 210,
+      "sizeBytes": 3526656
+    },
+    {
+      "id": "s012",
+      "title": "Tis So Sweet to Trust in Jesus",
+      "artist": "SE Samonte",
+      "category": "hymn",
+      "url": "Tis So Sweet to Trust in Jesus.mp3",
+      "durationSec": 187,
+      "sizeBytes": 3764224
+    },
+    {
+      "id": "s013",
+      "title": "Unlimited Grace",
+      "artist": "David Lah",
+      "category": "worship",
+      "url": "Unlimited Grace.mp3",
+      "durationSec": 310,
+      "sizeBytes": 6258688
+    },
+    {
+      "id": "s014",
+      "title": "What A Day That Will Be",
+      "artist": "SE Samonte",
+      "category": "hymn",
+      "url": "What A Day That Will Be.mp3",
+      "durationSec": 168,
+      "sizeBytes": 3387392
+    },
+    {
+      "id": "s015",
+      "title": "ကျေးဇူးတော်လောက်ပေ၏",
+      "artist": "ခွန်းနောင်ဆင့်",
+      "category": "worship",
+      "url": "ကျေးဇူးတော်လောက်ပေ၏.mp3",
+      "durationSec": 319,
+      "sizeBytes": 6541312
+    }
+  ]
+}
