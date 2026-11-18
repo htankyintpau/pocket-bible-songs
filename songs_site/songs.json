@@ -30,7 +30,7 @@
       "id": "s003",
       "title": "Because He lives I can face tomorrow",
       "artist": "Evolsiay Tulip",
-      "category": "hymn",
+      "category": "worship",
       "url": "Because He lives I can face tomorrow.mp3",
       "lyrics": "s003.txt",
       "durationSec": 238,
@@ -155,6 +155,16 @@
       "lyrics": "s015.txt",
       "durationSec": 319,
       "sizeBytes": 6541312
+    },
+    {
+      "id": "s016",
+      "title": "အခမဲ့",
+      "artist": "လေးဖြူ",
+      "category": "worship",
+      "url": "အခမဲ့.mp3",
+      "lyrics": "s016.txt",
+      "durationSec": 245,
+      "sizeBytes": 3,936,256
     }
   ]
 }
