@@ -59,7 +59,7 @@
     {
       "id": "s006",
       "title": "Home Christmas",
-      "artist": "Benjamin Sum",
+      "artist": "Benjamin Sum & Sang Pi",
       "category": "christmas",
       "url": "Home Christmas.mp3",
       "lyrics": "s006.txt",
@@ -148,7 +148,7 @@
     },
     {
       "id": "s015",
-      "title": "ကျေးဇူးတော်လောက်ပေ၏",
+      "title": "ကျေးဇူးတော်လောက်ပေ၏။",
       "artist": "ခွန်းနောင်ဆင့်",
       "category": "worship",
       "url": "ကျေးဇူးတော်လောက်ပေ၏.mp3",
@@ -164,7 +164,7 @@
       "url": "အခမဲ့.mp3",
       "lyrics": "s016.txt",
       "durationSec": 245,
-      "sizeBytes": 3,936,256
+      "sizeBytes": 3936256
     }
   ]
 }
