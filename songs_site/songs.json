@@ -20,7 +20,7 @@
       "id": "s002",
       "title": "Are You Washed in the Blood",
       "artist": "SE Samonte",
-      "category": "worship",
+      "category": "hymn",
       "url": "Are You Washed in the Blood.mp3",
       "lyrics": "s002.txt",
       "durationSec": 194,
@@ -30,7 +30,7 @@
       "id": "s003",
       "title": "Because He lives I can face tomorrow",
       "artist": "Evolsiay Tulip",
-      "category": "worship",
+      "category": "hymn",
       "url": "Because He lives I can face tomorrow.mp3",
       "lyrics": "s003.txt",
       "durationSec": 238,
@@ -165,6 +165,86 @@
       "lyrics": "s016.txt",
       "durationSec": 245,
       "sizeBytes": 3936256
+    },
+    {
+      "id": "s017",
+      "title": "",
+      "artist": "",
+      "category": "worship",
+      "url": ".mp3",
+      "lyrics": "s017.txt",
+      "durationSec": ,
+      "sizeBytes": 
+    },
+    {
+      "id": "s018",
+      "title": "",
+      "artist": "",
+      "category": "worship",
+      "url": ".mp3",
+      "lyrics": "s018.txt",
+      "durationSec": ,
+      "sizeBytes": 
+    },
+    {
+      "id": "s019",
+      "title": "",
+      "artist": "",
+      "category": "worship",
+      "url": ".mp3",
+      "lyrics": "s017.txt",
+      "durationSec": ,
+      "sizeBytes": 
+    },
+    {
+      "id": "s020",
+      "title": "",
+      "artist": "",
+      "category": "worship",
+      "url": ".mp3",
+      "lyrics": "s018.txt",
+      "durationSec": ,
+      "sizeBytes": 
+    },
+    {
+      "id": "s021",
+      "title": "",
+      "artist": "",
+      "category": "worship",
+      "url": ".mp3",
+      "lyrics": "s017.txt",
+      "durationSec": ,
+      "sizeBytes": 
+    },
+    {
+      "id": "s022",
+      "title": "",
+      "artist": "",
+      "category": "worship",
+      "url": ".mp3",
+      "lyrics": "s018.txt",
+      "durationSec": ,
+      "sizeBytes": 
+    },
+    {
+      "id": "s023",
+      "title": "",
+      "artist": "",
+      "category": "worship",
+      "url": ".mp3",
+      "lyrics": "s017.txt",
+      "durationSec": ,
+      "sizeBytes": 
+    },
+    {
+      "id": "s024",
+      "title": "",
+      "artist": "",
+      "category": "worship",
+      "url": ".mp3",
+      "lyrics": "s018.txt",
+      "durationSec": ,
+      "sizeBytes": 
     }
   ]
 }
